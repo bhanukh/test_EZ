@@ -179,15 +179,18 @@
     flex-direction: column-reverse;
     flex-wrap: wrap;
     border: 1px solid green;
+    margin: 0;
   }
   .clients {
     width: 100%;
     height: auto;
     padding: 0.5rem;
+    
   }
   .about-company-container {
     width: 100%;
     height: auto;
+    
   }
   /* loggedIn page  */
   .loggedIn {
@@ -235,7 +238,6 @@
     font-size: 1rem;
     padding-left: 1.2rem;
   }
-  /* entities  and add entity*/
   .add-entity h5{
     font-size: 1.2rem;
   }
@@ -264,7 +266,6 @@
   .table tbody tr td{
     font-size: 0.6rem;
   }
-  /* navbar for clints and add button */
   .navbar-links{
     display: flex;
     flex-wrap: nowrap !important;
