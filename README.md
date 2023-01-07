@@ -1,3 +1,13 @@
+hosted on : https://eztest.netlify.app/
+
+![Screenshot (236)](https://user-images.githubusercontent.com/32057541/211164038-6593d7a7-fadb-4fd7-8628-48373ecdd4c6.png)
+
+![Screenshot (237)](https://user-images.githubusercontent.com/32057541/211164042-defc304e-9a41-4139-bf7e-597661359619.png)
+
+
+![Screenshot (238)](https://user-images.githubusercontent.com/32057541/211164050-fcc9afef-d59f-4194-9e5c-6b528c5c23c7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
