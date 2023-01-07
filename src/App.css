@@ -7,32 +7,36 @@
   display: flex;
   height: auto;
   flex-direction: column;
-  padding: 0 0 55% 0;
-  width: 5rem;
+  padding:  0 0 80% 0;
+  width: 5.3rem;
   background-color: #112949;
+  
+  
 }
-.logo {
+.logo-side{
   margin: auto;
   padding: 1rem 0;
 }
-.logo img {
+.logo-side img {
   height: 50px;
   width: 50px;
 }
 .box{
   height: 45px;
   width:45px;
-  background-color: pink;
+  background-color: rgb(201, 161, 168);
   margin:1rem auto;
   cursor: pointer;
+  
 }
-.clints-company {
+.clients-company {
   height: auto;
   width: 100%;
   display: flex;
   border: 1px solid green;
+  margin-left: 5rem;
 }
-.clints {
+.clients {
   width: 28%;
   height: auto;
   padding: 0.5rem;
@@ -168,7 +172,7 @@
   .logo { 
     display: none;
   }
-  .clints-company {
+  .clients-company {
     height: auto;
     width: 100%;
     display: flex;
@@ -176,7 +180,7 @@
     flex-wrap: wrap;
     border: 1px solid green;
   }
-  .clints {
+  .clients {
     width: 100%;
     height: auto;
     padding: 0.5rem;

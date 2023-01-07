@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="container-fluid d-flex">
       <Sidebar/>
-      <div className="clints-company">
-        <div className="clints">
+      <div className="clients-company">
+        <div className="clients">
           <Navbar />
           <SearchBar />
           <Select />
