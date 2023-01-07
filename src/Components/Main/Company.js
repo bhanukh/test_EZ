@@ -106,11 +106,11 @@ function Company() {
                 </div>
                 <div className="signpdf p-3">
                   <h6>MSLA</h6>
-                  <p>545454eefekneicn lucasfilms.pdf <span><i class="fa-solid fa-eye"></i></span>&nbsp;&nbsp;<span><i class="fa-solid fa-download"></i></span></p>
+                  <p>545454eefekneicn lucasfilms.pdf <span><i className="fa-solid fa-eye"></i></span>&nbsp;&nbsp;<span><i className="fa-solid fa-download"></i></span></p>
                 </div>
                 
                 <h6 style={{color:"gray",padding:"1rem"}}>Cooperate Price as per MSLA</h6>
-                <table class="table">
+                <table className="table">
                   <thead>
                     <tr style={{color:"gray"}}>
                       <th scope="col">Service</th>

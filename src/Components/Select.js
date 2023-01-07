@@ -4,8 +4,8 @@ const Select = () => {
   return (
     <div>
       <select className="form-select" aria-label="Default select example">
-      <option selected>Open this select menu</option>
-      <option value="Jan 2021">Jan 2021</option>
+      <option >Open this select menu</option>
+      <option default value="Jan 2021">Jan 2021</option>
       <option value="Feb 2021">Feb 2021</option>
       <option value="Mar 2021">Mar 2021</option>
       <option value="April 2021">April 2021</option>
